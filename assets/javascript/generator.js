@@ -13,18 +13,17 @@ function intiate() {
 
     //random number generator for target
      randomNumber = Math.floor(Math.random() * 101) + 20;
-    //console.log(randomNumber);
+    //console.log("target number:", randomNumber);
     $("#target").text(randomNumber);
 
     //random number generator for score, then random# is applied to button class
 
-
     $(".crystal").each(function () {
 
         randomSmall = Math.floor(Math.random() * 11) + 1;
-        //console.log(randomSmall);
+        //console.log("random-value: ", randomSmall);
         $(this).attr("value", randomSmall);
-
+        
 
     });
 
