@@ -49,37 +49,28 @@ h1 {
 }
 
 @media all and (max-width: 1200px) and (min-width: 992px) {
-
     .btn {
-        margin: 1rem; 
+        margin: 1rem;
     }
-
 }
 
-@media all and (max-width: 992px) and (min-width: 768px){
-
+@media all and (max-width: 992px) and (min-width: 768px) {
     .btn {
-        margin: .25rem; 
+        margin: .25rem;
     }
-
 }
 
-@media all and (max-width: 768px) and (min-width: 576px){
-
+@media all and (max-width: 768px) and (min-width: 576px) {
     .btn {
-        margin: .25rem; 
+        margin: .25rem;
     }
     .top {
-        margin-left: 3rem; 
+        margin-left: 3rem;
     }
-
 }
 
-@media all and (max-width: 576px){
-
+@media all and (max-width: 576px) {
     .btn {
-        margin: 2.5rem; 
+        margin: 2.5rem;
     }
-    
-
 }
