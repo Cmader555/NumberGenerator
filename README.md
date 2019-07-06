@@ -10,9 +10,9 @@
 * As you click each button a score is totaled, and if your score equals the target number you win! 
 
 
-**After each win and loss, the initiation function is recalled and the game starts over! 
+* After each win and loss, the initiation function is recalled and the game starts over! 
 
-**Check out the game here: https://cmader555.github.io/NumberGenerator/ 
+* Check out the game here: https://cmader555.github.io/NumberGenerator/ 
 
 ## Installation 
 
